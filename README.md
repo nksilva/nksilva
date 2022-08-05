@@ -18,4 +18,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nksilva&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
 </div>
 
+![octocat-1659706274002](https://user-images.githubusercontent.com/105717432/183087864-a21d903e-caa7-474c-9f2d-6980130e45f0.png)
+
+
 
