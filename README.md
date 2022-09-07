@@ -4,7 +4,7 @@
 - 📫 Como entrar em contato comigo: s.nickole@escola.pr.gov.br
 - 😄 Pronomes: ela/dela
 
-Footer
+
 💕 ❤️
 
 ### Contatos:
